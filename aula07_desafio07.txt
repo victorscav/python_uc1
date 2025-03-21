@@ -1,0 +1,12 @@
+numero <- recebe numero
+
+
+se numero <= i:
+   imprima "números negativos não podem ser primos"
+
+se numero % i = 0
+   imprima " números divisível por qualquer número, não é primo"
+
+senão
+
+  imprima " esse numero é primo
